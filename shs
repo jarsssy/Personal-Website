@@ -1,0 +1,21 @@
+<!Doctype html>
+<html lang= "en">
+<head>
+	<link rel="stylesheet" href="EADesign.css">
+		<title>Educational Attainments </title>
+	<div>
+			<center><h1>EDUCATIONAL ATTAINMENTS</h1>
+	</div>
+</head>
+<body>
+	<h2> Senior High School
+			<p>Name of school: RIZAL COLLEGE OF TAAL
+			<br>
+			   Location: Poblacion, San Nicolas, Batangas
+		</h2>
+	</div>
+	<img src="elem.jpg" alt="elem picture" width="800" height="400">
+	
+	<h3> Awards Received </h3>
+	</body>
+</html>
